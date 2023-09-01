@@ -31,4 +31,4 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Deployment Link
 The deployment link to the tutorial on Gist is : 
-[The Gist ]()
+[The Gist ](https://gist.github.com/rgadewar/c421d3a2381e3e24fb29c6b853fd4928)

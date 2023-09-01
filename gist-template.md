@@ -1,5 +1,4 @@
-# Title (replace with your title)
-
+# DEV-REGEX-TUTORIAL
 In this tutorial, we'll dive into the captivating world of regular expressions, often referred to as Regex. Regular expressions are essentially combinations of characters that form unique patterns. They serve as powerful tools within code or algorithms, enabling you to locate or even replace specific patterns within text strings. For example, you can utilize regular expressions to validate user passwords, detect phone numbers, identify email addresses, URLs, and an array of other data patterns.
 
 ## Summary
