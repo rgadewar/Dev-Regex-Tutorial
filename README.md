@@ -4,10 +4,9 @@
 
 ## Table of Contents
 * [Project Objective](#project-objective)
+* [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Deployment Link](#deployment-link)
-
-
 
 
 ## Project Objective
