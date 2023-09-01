@@ -1,10 +1,12 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+In this tutorial, we'll dive into the captivating world of regular expressions, often referred to as Regex. Regular expressions are essentially combinations of characters that form unique patterns. They serve as powerful tools within code or algorithms, enabling you to locate or even replace specific patterns within text strings. For example, you can utilize regular expressions to validate user passwords, detect phone numbers, identify email addresses, URLs, and an array of other data patterns.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In our upcoming exploration, we'll delve into a new regular expression, one that seeks to identify and extract URLs from a given text. Our regex contender is
+        \bhttps?://[^\s/$.?#].[^\s]*\b
+This regex is designed to locate both HTTP and HTTPS URLs within text content.
 
 ## Table of Contents
 
